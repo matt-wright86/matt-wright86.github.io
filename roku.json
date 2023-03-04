@@ -24,7 +24,11 @@
       "thumbnail": "https://ottfeed.com/GCUGbgJZalE6XOuIzJVV/OTTfeed-live-image.png",
       "brandedThumbnail": "https://ottfeed.com/GCUGbgJZalE6XOuIzJVV/OTTfeed-live-image.png",
       "longDescription": "OTTfeed: All-in-one feed management system for Roku Direct Publisher, Roku Channel and custom OTT apps. All Content Types, Management Tools & Advanced workflows. For more info go to https://OTTfeed.com",
-      "shortDescription": "All-in-one feed management system for Roku Direct Publisher, Roku Channel and custom OTT apps"
+      "shortDescription": "All-in-one feed management system for Roku Direct Publisher, Roku Channel and custom OTT apps",
+      "tags": [
+        "Faith",
+        "Ministry"
+      ]
     }
   ]
 }
