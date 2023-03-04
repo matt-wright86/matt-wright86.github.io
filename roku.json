@@ -1,7 +1,7 @@
 {
   "providerName": "Pleasant Grove Missionary Baptist Church",
   "lastUpdated": "2023-03-03T07:21:37+00:00",
-  "language": "en",
+  "language": "en-US",
   "liveFeeds": [
     {
       "id": "A1Z0GB1387SZFEBJE",
@@ -18,7 +18,7 @@
             "videoType": "HLS"
           }
         ],
-        "language": "en",
+        "language": "en-US",
         "duration": 18000,
         "dateAdded": "2023-03-03T07:21:37+00:00"
       },
@@ -30,6 +30,21 @@
         "Faith",
         "Ministry"
       ]
+    }
+  ],
+  "playlists": [
+    {
+      "name": "Live feed",
+      "itemIds": [
+        "A1Z0GB1387SZFEBJE"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "name": "Live feed",
+      "playlistName": "Live feed",
+      "order": "most_recent"
     }
   ]
 }
