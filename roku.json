@@ -1,0 +1,30 @@
+{
+  "providerName": "Pleasant Grove Missionary Baptist Church",
+  "lastUpdated": "2023-10-23T12:10:58+00:00",
+  "language": "en",
+  "liveFeeds": [
+    {
+      "id": "a1z0gb1387szfebje",
+      "title": "Live Stream",
+      "rating": {
+        "rating": "UNRATED",
+        "ratingSource": "USA_PR"
+      },
+      "content": {
+        "videos": [
+          {
+            "url": "https://4a61af0e91d7.entrypoint.cloud.wowza.com/app-964Mr183/ngrp:dff76b31_all/playlist.m3u8",
+            "quality": "FHD",
+            "videoType": "HLS"
+          }
+        ],
+        "language": "en-US",
+        "dateAdded": "2023-10-17T17:20:46+00:00"
+      },
+      "thumbnail": "https://ottfeed.com/GCUGbgJZalE6XOuIzJVV/OTTfeed-live-image.png",
+      "brandedThumbnail": "https://ottfeed.com/GCUGbgJZalE6XOuIzJVV/OTTfeed-live-image.png",
+      "longDescription": "OTTfeed: All-in-one feed management system for Roku Direct Publisher, Roku Channel and custom OTT apps. All Content Types, Management Tools & Advanced workflows. For more info go to https://OTTfeed.com",
+      "shortDescription": "All-in-one feed management system for Roku Direct Publisher, Roku Channel and custom OTT apps"
+    }
+  ]
+}
