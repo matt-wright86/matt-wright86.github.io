@@ -1,6 +1,6 @@
 {
   "providerName": "Test Channel",
-  "lastUpdated": "2023-03-04T22:08:37+00:00",
+  "lastUpdated": "2023-03-05T14:24:37+00:00",
   "language": "en-US",
   "tvSpecials": [
     {
@@ -30,7 +30,7 @@
       "thumbnail": "https://thepleasantgroveway.com/wp-content/uploads/2022/02/roku-image-800x450.jpeg",
       "releaseDate": "2022-02-18",
       "longDescription": "Here's a long description",
-      "shortDescription": "Here's a long description"
+      "shortDescription": "Here's a short description"
     }
   ],
   "liveFeeds": [
