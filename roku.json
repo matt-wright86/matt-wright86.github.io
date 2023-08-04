@@ -1,7 +1,7 @@
 {
-  "providerName": "Test Channel",
-  "lastUpdated": "2023-08-04T00:57:38+0000",
-  "language": "en",
+   "providerName":"Test Channel",
+   "lastUpdated":"2023-08-04T00:57:38+0000",
+   "language":"en",
    "liveFeeds":[
       {
          "id":"matt_streaming_test_online_streaming",
@@ -12,7 +12,7 @@
             "language":"en",
             "videos":[
                {
-                  "url": "https://4a61af0e91d7.entrypoint.cloud.wowza.com/app-964Mr183/ngrp:dff76b31_all/playlist.m3u8",
+                  "url":"https://4a61af0e91d7.entrypoint.cloud.wowza.com/app-964Mr183/ngrp:dff76b31_all/playlist.m3u8",
                   "quality":"FHD",
                   "videoType":"HLS"
                }
@@ -25,7 +25,7 @@
          "thumbnail":"https://ik.imagekit.io/3ceynbmoh/2022/10/07/22n2nih2md_vlcsnap_2022_10_07_12h00m43s550.png?tr=w-800,h-450",
          "brandedThumbnail":"https://ik.imagekit.io/3ceynbmoh/2022/10/07/22n2nih2md_vlcsnap_2022_10_07_12h00m43s550.png?tr=w-800,h-450",
          "shortDescription":"MATT Online stream",
-         "longDescription":"Tune in for inspirational programming that will inform, inspire, and strengthen you in your Christian walk. ADtv Live broadcasts all of Amazing Discoveries’ content including our exciting line-up of speakers, uplifting sacred music, and how-to demonstrations to learn practical skills in natural health, cooking, and country living. You can do all this here at ADtv Live. \u003cbr\u003e\u003cbr\u003eIf you're looking for Seventh-day Adventist live streaming content, this is the place to watch in-depth Bible study series, sermons, Christian documentaries, Bible-based health seminars and more! Get ready to be blessed!"
+         "longDescription":"A longer movie description that does not exceed 500 characters. The text will be clipped if longer. Must be different from shortDescription."
       }
    ]
 }
