@@ -1,41 +1,10 @@
 {
   "providerName": "Test Channel",
-  "lastUpdated": "2023-03-05T14:24:37+00:00",
+  "lastUpdated": "2023-08-02T14:24:37+00:00",
   "language": "en",
-  "tvSpecials": [
-    {
-      "id": "UX29403948048",
-      "tags": [
-        "Computers",
-        "Most Popular"
-      ],
-      "title": "Hour Of Power – Test",
-      "credit": [],
-      "genres": [
-        "faith",
-        "special"
-      ],
-      "content": {
-        "videos": [
-          {
-            "url": "https://4a61af0e91d7.entrypoint.cloud.wowza.com/app-964Mr183/ngrp:dff76b31_all/playlist.m3u8",
-            "quality": "FHD",
-            "videoType": "HLS"
-          }
-        ],
-        "duration": 4744,
-        "language": "en-US",
-        "dateAdded": "2022-02-18T11:18:21-06:00"
-      },
-      "thumbnail": "https://matt-wright86.github.io/images/800x450.png",
-      "releaseDate": "2022-02-18",
-      "longDescription": "Here's a long description",
-      "shortDescription": "Here's a short description"
-    }
-  ],
   "liveFeeds": [
     {
-      "id": "Z0GB1387SZFEBJE",
+      "id": "ekjeubeine390d",
       "title": "Live Stream",
       "rating": {
         "rating": "PG",
@@ -49,9 +18,9 @@
             "videoType": "HLS"
           }
         ],
-        "language": "en-US",
+        "language": "en",
         "duration": 999,
-        "dateAdded": "2023-03-03T07:21:37+00:00"
+        "dateAdded": "2023-08-02T14:21:37+00:00"
       },
       "thumbnail": "https://matt-wright86.github.io/images/800x450.png",
       "brandedThumbnail": "https://matt-wright86.github.io/images/800x450.png",
@@ -63,19 +32,4 @@
       ]
     }
   ],
-  "playlists": [
-    {
-      "name": "Live feed",
-      "itemIds": [
-        "A1Z0GB1387SZFEBJE"
-      ]
-    }
-  ],
-  "categories": [
-    {
-      "name": "Live feed",
-      "playlistName": "Live feed",
-      "order": "most_recent"
-    }
-  ]
 }
