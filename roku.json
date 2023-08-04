@@ -1,34 +1,31 @@
 {
   "providerName": "Test Channel",
-  "lastUpdated": "2023-08-02T14:24:37+00:00",
+  "lastUpdated": "2023-08-04T00:57:38+0000",
   "language": "en",
-  "liveFeeds": [
-    {
-      "id": "ekjeubeine390d",
-      "title": "Live Stream",
-      "rating": {
-        "rating": "PG",
-        "ratingSource": "USA_PR"
-      },
-      "content": {
-        "videos": [
-          {
-            "url": "https://4a61af0e91d7.entrypoint.cloud.wowza.com/app-964Mr183/ngrp:dff76b31_all/playlist.m3u8",
-            "quality": "FHD",
-            "videoType": "HLS"
-          }
-        ],
-        "language": "en",
-        "dateAdded": "2023-08-02T14:21:37+00:00"
-      },
-      "thumbnail": "https://matt-wright86.github.io/images/800x450.png",
-      "brandedThumbnail": "https://matt-wright86.github.io/images/800x450.png",
-      "longDescription": "OTTfeed: All-in-one feed management system for Roku Direct Publisher, Roku Channel and custom OTT apps. All Content Types, Management Tools & Advanced workflows. For more info go to https://OTTfeed.com",
-      "shortDescription": "All-in-one feed management system for Roku Direct Publisher, Roku Channel and custom OTT apps",
-      "tags": [
-        "Faith",
-        "Ministry"
-      ]
-    }
-  ],
+   "liveFeeds":[
+      {
+         "id":"matt_streaming_test_online_streaming",
+         "title":"Online Streaming",
+         "content":{
+            "dateAdded":"2023-08-04T00:50:38+0000",
+            "duration":3600,
+            "language":"en",
+            "videos":[
+               {
+                  "url": "https://4a61af0e91d7.entrypoint.cloud.wowza.com/app-964Mr183/ngrp:dff76b31_all/playlist.m3u8",
+                  "quality":"FHD",
+                  "videoType":"HLS"
+               }
+            ]
+         },
+         "rating":{
+            "rating":"G",
+            "ratingSource":"USA_PR"
+         },
+         "thumbnail":"https://ik.imagekit.io/3ceynbmoh/2022/10/07/22n2nih2md_vlcsnap_2022_10_07_12h00m43s550.png?tr=w-800,h-450",
+         "brandedThumbnail":"https://ik.imagekit.io/3ceynbmoh/2022/10/07/22n2nih2md_vlcsnap_2022_10_07_12h00m43s550.png?tr=w-800,h-450",
+         "shortDescription":"MATT Online stream",
+         "longDescription":"Tune in for inspirational programming that will inform, inspire, and strengthen you in your Christian walk. ADtv Live broadcasts all of Amazing Discoveries’ content including our exciting line-up of speakers, uplifting sacred music, and how-to demonstrations to learn practical skills in natural health, cooking, and country living. You can do all this here at ADtv Live. \u003cbr\u003e\u003cbr\u003eIf you're looking for Seventh-day Adventist live streaming content, this is the place to watch in-depth Bible study series, sermons, Christian documentaries, Bible-based health seminars and more! Get ready to be blessed!"
+      }
+   ]
 }
